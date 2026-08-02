@@ -7,23 +7,23 @@
 
 ## 🌑 What It Is
 
-Most people lose negotiations not because they lack information — but because they've never practiced. NegotiationSim puts you across a virtual table from an AI opponent, gives you live feedback on every move, then debriefs the entire session when it's over.
+Most people lose negotiations not because they lack information  but because they've never practiced. NegotiationSim puts you across a virtual table from an AI opponent, gives you live feedback on every move, then debriefs the entire session when it's over.
 
 **Three phases:**
-1. **Setup** — describe your scenario, goal, and who you're talking to
-2. **Table** — exchange messages with the AI; each of your cards shows a live rating in real time
-3. **Debrief** — move-by-move analysis, power timeline, three specific takeaways
+1. **Setup**  describe your scenario, goal, and who you're talking to
+2. **Table**  exchange messages with the AI; each of your cards shows a live rating in real time
+3. **Debrief**  move-by-move analysis, power timeline, three specific takeaways
 
 ---
 
 ## ✨ Features
 
-- 🃏 **Cards on a table** — messages appear as physical cards, not chat bubbles
-- ⚡ **Live ratings** — every message you send gets rated instantly (Strong / Weak / Missed + score)
-- 📊 **Power bar** — a live balance shifts with every exchange
-- 💡 **Suggested replies** — three contextual options after each AI response
-- 📋 **Full debrief** — SVG power timeline, color-coded move analysis, three takeaways
-- 💾 **Persistent** — sessions saved to SQLite; debrief accessible by ID
+- 🃏 **Cards on a table**  messages appear as physical cards, not chat bubbles
+- ⚡ **Live ratings** every message you send gets rated instantly (Strong / Weak / Missed + score)
+- 📊 **Power bar**  a live balance shifts with every exchange
+- 💡 **Suggested replies**  three contextual options after each AI response
+- 📋 **Full debrief**  SVG power timeline, color-coded move analysis, three takeaways
+- 💾 **Persistent** —sessions saved to SQLite; debrief accessible by ID
 
 ---
 
@@ -139,7 +139,7 @@ Fonts: Playfair Display · Lora · JetBrains Mono
 
 ## 🧠 Why AI Is Core
 
-A negotiation opponent that responds realistically to your specific words — not a script — and simultaneously evaluates your tactics, adjusts its power position, and generates relevant follow-up suggestions, all in one call. Remove the AI and the product is an empty table.
+A negotiation opponent that responds realistically to your specific words  not a script  and simultaneously evaluates your tactics, adjusts its power position, and generates relevant follow-up suggestions, all in one call. Remove the AI and the product is an empty table.
 
 ---
 
